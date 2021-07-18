@@ -14,9 +14,19 @@ Tech Stack Used- HTML, JavaScript
 
 Note - To run this on your system, just download the files and run the html file on a live server.
 
+
+
 Attached below are some images of the percolation simulation and its results
 
+
+
 ![image](https://user-images.githubusercontent.com/56232533/126057540-17484535-c512-4fa7-88cf-eafbc2f4c50f.png)
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/56232533/126057545-6b5017ed-0a80-4590-84c6-fdec7b8bd80e.png)
 
